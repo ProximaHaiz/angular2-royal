@@ -1,4 +1,4 @@
-import { CompanyType } from '../order.component'
+import { CompanyType } from '../enums/all-enums'
 
 export class Advertisement{
     type:CompanyType;
